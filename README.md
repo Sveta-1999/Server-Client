@@ -19,3 +19,6 @@ Once a connection is established, the client and server can exchange data.
 7. Once the client and server are connected, they can communicate with each other by sending messages back and forth. The protocol used for communication will depend on the specific application.
 8. When a client connects to the server, a new thread is created to handle the client communication. The communication between the client and server takes place within this thread.
 
+
+
+![socket-programming](https://user-images.githubusercontent.com/79526438/224439401-28e9f9e5-b746-4361-b805-9b2c3a2a5a96.png)
