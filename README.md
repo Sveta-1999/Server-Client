@@ -27,7 +27,8 @@ Once a connection is established, the client and server can exchange data.
 <hr>
 <b> How to work. </b>
 
-Syntax to connect server is "connect <IP_ADDRESS> <PORT>" Where the <IP_ADDRESS> is IP address of the Server and the <PORT> is Server port number
+Syntax to connect server is "connect <IP_ADDRESS> <PORT>" Where the <IP_ADDRESS> is IP address of the Server and 
+the <PORT> is Server port number
 
 Syntax to run commands is  "command" Where command is command supported by terminal
 
