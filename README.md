@@ -28,8 +28,8 @@ Once a connection is established, the client and server can exchange data.
 <b> How to work. </b>
 
 Syntax to connect server is "connect <IP_ADDRESS> <PORT>" Where the <IP_ADDRESS> is IP address of the Server and 
-the <PORT> is Server port number
+the <PORT> is Server port number.
 
-Syntax to run commands is  "command" Where command is command supported by terminal
+Syntax to run commands is  "command" Where command is command supported by terminal.
 
-Server also handles "disconnect" command Which closes the connection with particular client
+Server also handles "disconnect" command Which closes the connection with particular client.
