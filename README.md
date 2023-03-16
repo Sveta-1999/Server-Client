@@ -25,7 +25,7 @@ Once a connection is established, the client and server can exchange data.
 ![socket-programming](https://user-images.githubusercontent.com/79526438/224439401-28e9f9e5-b746-4361-b805-9b2c3a2a5a96.png)
 
 <hr>
-How to work.
+<b> How to work. </b>
 
 Syntax to connect server is "connect <IP_ADDRESS> <PORT>" Where the <IP_ADDRESS> is IP address of the Server and the <PORT> is Server port number
 
